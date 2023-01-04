@@ -1,7 +1,7 @@
-# Triangulo (POO em Java)
+# Triângulo (POO em Java)
 65. Criando um método para obtermos os benefícios de reaproveitamento e delegação.
 * Aula 65 do curso "Java COMPLETO Programação Orientada a Objetos + Projetos"
-* Professor: Nelio Alves
+* Professor: Nélio Alves
 
 ## Sobre este curso
 * Curso mais didático e completo de Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB e muito mais.
